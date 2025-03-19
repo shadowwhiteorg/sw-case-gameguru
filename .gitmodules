@@ -1,0 +1,6 @@
+[submodule "X-Grid/sw-gameguru-project01"]
+	path = X-Grid/sw-gameguru-project01
+	url = https://github.com/shadowwhiteorg/sw-gameguru-project01.git
+[submodule "FallingGrounds/sw-gameguru-project02"]
+	path = FallingGrounds/sw-gameguru-project02
+	url = https://github.com/shadowwhiteorg/sw-gameguru-project02.git
